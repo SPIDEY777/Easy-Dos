@@ -4,7 +4,7 @@ import threading
 
 # Clear terminal and display tool name using figlet
 os.system("clear")
-os.system("figlet Easy Dos")
+os.system("figlet Easy DOS")
 
 # User input for target, port, and number of threads
 target = str(input("Enter Target's IP Address: "))
