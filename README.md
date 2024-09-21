@@ -1,4 +1,4 @@
-# DOS Attack Tool
+# Easty DOS
 
 This is a simple DOS attack tool written in Python. It allows users to perform a basic denial-of-service attack on a specified target IP and port using multiple threads.
 
